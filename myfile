@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Login page </title>
+<style>
+body{
+</style>
+</head>
+<body>
+	<center><h1>Shoeb Login form</h1></center>
+	<form>
+		<div class="container">
+			<lable>Username:</lable>
+			<input type="text" placeholder="Enter Username" name="username" required>
+			<lable>Password :</lable>
+			<input type="text" placeholder="Enter Password" name="Password" reuired>
+			<button type="submit>login</button>
+			<input type="checkbox" checked="checked">Rember me
+			<button type="button" class="cancelbtn">Cancel</button>
+			Forget<a herf="#>passw0rd?</a>
+		</div>
+	</form>
+</body>
+</html>
